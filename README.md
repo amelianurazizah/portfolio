@@ -1,2 +1,2 @@
 # portfolio
-theme: forty
+remote_theme: forty
